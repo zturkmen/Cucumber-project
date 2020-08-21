@@ -1,15 +1,5 @@
 package com.cybertek.step_definitions;
 
-import com.cybertek.pages.SmartBearOrderPractice;
-import com.cybertek.utilities.ConfigurationReader;
-import com.cybertek.utilities.Driver;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
-import org.junit.Assert;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.support.ui.Select;
-
 public class SmartBearOrderPracticeDefinitions {
      /*
     TC#27: SmartBear order process
@@ -29,7 +19,7 @@ public class SmartBearOrderPracticeDefinitions {
     14.User verifies John Wick is in the list
     Note: Follow POM, and solution should be done using Cucumber parameterization
      */
-
+/*
     SmartBearOrderPractice smartBearOrderPractice=new SmartBearOrderPractice();
 
 
@@ -129,5 +119,5 @@ public class SmartBearOrderPracticeDefinitions {
 
     }
 
-
+*/
 }

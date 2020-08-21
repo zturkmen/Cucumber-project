@@ -1,4 +1,4 @@
-@smoketest
+
 Feature: Etsy
 
   As a user, I should be able to search on the Etsy Page
